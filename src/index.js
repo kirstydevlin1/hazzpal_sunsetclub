@@ -3,16 +3,10 @@ import chalk   from 'chalk'
 import path    from 'path'
 import https from 'https'
 import config  from './config'
-<<<<<<< HEAD
-var endData
-var clockwork = require('../node_modules/clockwork')({key:'47cd1164a537ef92741bec883609173f51af17f3'})
-var numbers = require('./numbers.txt')
-const fs = require('fs')
-=======
+
 
 const fs = require('fs');
 
->>>>>>> parent of 7360bf4... added clocwork request, to send a reply back to the user
 const app = express()
 const router = express.Router();
 
