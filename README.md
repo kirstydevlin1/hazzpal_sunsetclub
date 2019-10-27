@@ -1,4 +1,4 @@
-# express-boilerplate
+# Hazz Pal - HacMCR Challenge 
 
 > Simple Express Backend w/ Webpack, ES6, ESLint, Hot-Reload Template
 
@@ -6,6 +6,14 @@
 
 - Webpack 3
 - Babel (ES6, babel-preset-env)
+- Hot-Reload
+- ESLint w/ Standard
+- Express
+
+## Checklist
+
+- Postman
+- local tunnel - turn your local 
 - Hot-Reload
 - ESLint w/ Standard
 - Express
