@@ -10,13 +10,13 @@
 - ESLint w/ Standard
 - Express
 
-## Checklist
+## Install Checklist
 
-- Postman
-- local tunnel - turn your local 
-- Hot-Reload
-- ESLint w/ Standard
-- Express
+- Postman - 
+Example GET request: 
+```https://sunrisesms.localtunnel.me/recordnumber?from=447539968069&message=Join the Sunset Club now!&to=44555555555&key=47cd1164a537ef92741bec883609173f51af17f3```
+- Local tunnel - turn your local port into public URL
+Example code for localtunnel: ```lt -s sunrisesms --port 3000```
 
 ## Usage
 
