@@ -3,7 +3,10 @@ import chalk   from 'chalk'
 import path    from 'path'
 import https from 'https'
 import config  from './config'
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 7360bf4... added clocwork request, to send a reply back to the user
 
 const fs = require('fs');
 
